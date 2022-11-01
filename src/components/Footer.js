@@ -12,7 +12,7 @@ function Footer() {
   }
   const sendEmail = async (e) => {
     e.preventDefault();
-    fetch('https://assignment-module-7-default-rtdb.asia-southeast1.firebasedatabase.app/user-emails.json',
+    fetch('https://module-7-a576b-default-rtdb.asia-southeast1.firebasedatabase.app/',
     {
       method:'POST',
       Headers:{
