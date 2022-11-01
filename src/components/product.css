@@ -46,6 +46,7 @@
     height: 307px;
     width: 366px;
     border-radius: 10px 10px 0 0;
+    cursor: pointer;
 }
 
 .p-list .p-item .p-item-body {
@@ -127,4 +128,5 @@
     line-height: 32px;
     padding: 5px;
     text-transform: uppercase;
+    cursor: pointer;
 }
